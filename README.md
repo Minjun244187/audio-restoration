@@ -5,12 +5,12 @@
 <tr>
 <td align="center">
 <b>Before — </b>
-🔊 <a href="https://raw.githubusercontent.com/Minjun244187/audio-restoration/img/sample2.mp3">Listen to Original</a>
+<video src="./img/sample2.mp4" controls width="400"></video>
 </td>
 
 <td align="center">
 <b>After — </b>
-🔊 <a href="https://raw.githubusercontent.com/Minjun244187/audio-restoration/img/final.mp3">Listen to Restored</a>
+<video src="./img/final.mp4" controls width="400"></video>
 </td>
 </tr>
 </table>
