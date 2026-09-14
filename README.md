@@ -1,25 +1,8 @@
 # SP Record Restoration
 
 ## Restoring degraded 78 RPM records with digital signal processing in Python.
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<b>Before — </b>
-🔊 <a href="./img/sample2.mp3">Listen to Original</a>
-</td>
 
-<td align="center">
-<b>After — </b>
-🔊 <a href="./img/final.mp3">Listen to Restored</a>
-</td>
-</tr>
-</table>
-</div>
 <img src="./img/sp_restore.jpg" width="800">
-
-
-
 <table>
 <tr>
 <td align="center" width="50%">
