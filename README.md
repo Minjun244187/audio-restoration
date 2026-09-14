@@ -200,7 +200,7 @@ The STFT gives me:
            └────────────► Time
 ```
 
-This also makes it easier to compare the recording before and after each restoration step.
+This also makes it easier to compare the recording before and after each restoration step. At a 44.1 kHz sample rate, each STFT frame analyzes about 46 ms of audio, with consecutive frames about 11.6 ms apart, creating about 75% overlap between frames.
 
 ---
 
