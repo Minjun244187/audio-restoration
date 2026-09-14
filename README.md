@@ -7,7 +7,7 @@
 <tr>
 <td align="center" width="50%">
 <b>Before <a href="https://github.com/Minjun244187/audio-restoration/raw/refs/heads/main/img/sample2.mp3" download>Download Original MP3</a></b>
-<video src="https://github.com/user-attachments/assets/f4c11aea-130c-4669-a26b-6a4e2237416b" controls width="100%" height="20" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
+<video src="https://github.com/user-attachments/assets/2541cc61-6f9c-4d60-a2d6-57ced5fe349e" controls width="100%" height="20" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
 </td>
 
 <td align="center" width="50%">
