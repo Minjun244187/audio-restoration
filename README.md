@@ -6,7 +6,7 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<b>Before <a href="https://github.com/Minjun244187/audio-restoration/img/sample2.mp3" download>Download Original MP3</a></b>
+<b>Before <a href="https://github.com/Minjun244187/audio-restoration/blob/mainimg/sample2.mp3" download>Download Original MP3</a></b>
 
 <video src="https://github.com/user-attachments/assets/1f1bea3f-c0b5-4d79-b972-63001a730337" controls width="100%" height="40" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
 </td>
