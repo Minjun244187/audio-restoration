@@ -1,7 +1,19 @@
 # SP Record Restoration
 
 ## Restoring degraded 78 RPM records with digital signal processing in Python.
+<table>
+<tr>
+<td align="center">
+<b>Before — Original</b>
+🔊 <a href="./img/sample2.mp3">Listen to Original</a>
+</td>
 
+<td align="center">
+<b>After — Restored</b>
+🔊 <a href="./img/final.mp3">Listen to Restored</a>
+</td>
+</tr>
+</table>
 I collect SP records from before 1940 as a hobby, but many have poor sound quality. I wanted to restore the recordings myself and see how much of the original sound I could recover using signal-processing techniques.
 
 I built my own restoration pipeline to experiment with different types of noise and audio degradation.
