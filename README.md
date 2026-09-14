@@ -28,7 +28,6 @@ The project includes:
 * Waveform and spectrogram visualization
 
 <img src="./img/sp_restore.jpg" width="800">
----
 
 ## Processing Steps
 
