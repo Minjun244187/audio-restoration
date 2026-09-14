@@ -2,7 +2,6 @@
 
 ## Restoring degraded 78 RPM records with digital signal processing in Python.
 
-<img src="./img/sp_restore.jpg" width="800">
 <table>
 <tr>
 <td align="center" width="50%">
@@ -29,6 +28,7 @@ The project includes:
 * Harmonic analysis and restoration
 * Waveform and spectrogram visualization
 
+<img src="./img/sp_restore.jpg" width="800">
 ---
 
 ## Processing Steps
