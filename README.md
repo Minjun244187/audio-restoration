@@ -22,8 +22,17 @@
 
 <table>
 <tr>
-<td align="center" width="50%"><b>Before</b><br><br><video src="https://github.com/user-attachments/assets/1f1bea3f-c0b5-4d79-b972-63001a730337" controls width="100%" height="40" style="object-fit: cover;"></video></td>
-<td align="center" width="50%"><b>After</b><br><br><video src="https://github.com/user-attachments/assets/1ab0552f-3399-4334-aaa1-7b12c36da444" controls width="100%" height="40" style="object-fit: cover;"></video></td>
+<td align="center" width="50%">
+<b>Before <a href="./img/sample2.mp3">Download Original MP3</a></b>
+
+<video src="https://github.com/user-attachments/assets/1f1bea3f-c0b5-4d79-b972-63001a730337" controls width="100%" height="40" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
+</td>
+
+<td align="center" width="50%">
+<b>After 🔊 <a href="./img/final.mp3">Download Restored MP3</a></b>
+
+<video src="https://github.com/user-attachments/assets/1ab0552f-3399-4334-aaa1-7b12c36da444" controls width="100%" height="40" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
+</td>
 </tr>
 </table>
 
