@@ -4,12 +4,12 @@
 <table>
 <tr>
 <td align="center">
-<b>Before — Original</b>
+<b>Before — </b>
 🔊 <a href="./img/sample2.mp3">Listen to Original</a>
 </td>
 
 <td align="center">
-<b>After — Restored</b>
+<b>After — </b>
 🔊 <a href="./img/final.mp3">Listen to Restored</a>
 </td>
 </tr>
