@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/77af1c09-6579-449d-972e-28e859caf6d8
-
 # SP Record Restoration
 
 ## Restoring degraded 78 RPM records with digital signal processing in Python.
@@ -11,18 +7,15 @@ https://github.com/user-attachments/assets/77af1c09-6579-449d-972e-28e859caf6d8
 <tr>
 <td align="center" width="50%">
 <b>Before <a href="https://github.com/Minjun244187/audio-restoration/raw/refs/heads/main/img/sample2.mp3" download>Download Original MP3</a></b>
-
-<video src="https://github.com/user-attachments/assets/4f890fb4-ae0b-47f0-a37b-c01ff23f064a" controls width="100%" height="40" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
+<video src="https://github.com/user-attachments/assets/f4c11aea-130c-4669-a26b-6a4e2237416b" controls width="100%" height="20" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
 </td>
 
 <td align="center" width="50%">
 <b>After <a href="https://github.com/Minjun244187/audio-restoration/raw/refs/heads/main/img/final.mp3" download>Download Restored MP3</a></b>
-
-<video src="https://github.com/user-attachments/assets/4f890fb4-ae0b-47f0-a37b-c01ff23f064a" controls width="100%" height="40" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
+<video src="https://github.com/user-attachments/assets/4f890fb4-ae0b-47f0-a37b-c01ff23f064a" controls width="100%" height="20" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
 </td>
 </tr>
 </table>
-
 
 I collect SP records from before 1940 as a hobby, but many have poor sound quality. I wanted to restore the recordings myself and see how much of the original sound I could recover using signal-processing techniques.
 
