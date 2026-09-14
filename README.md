@@ -14,6 +14,7 @@
 </td>
 </tr>
 </table>
+
 I collect SP records from before 1940 as a hobby, but many have poor sound quality. I wanted to restore the recordings myself and see how much of the original sound I could recover using signal-processing techniques.
 
 I built my own restoration pipeline to experiment with different types of noise and audio degradation.
