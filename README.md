@@ -32,7 +32,7 @@ The project includes:
 ## Processing Steps
 
 ```text
-78 RPM Recording → Load Audio → Remove Hum → Remove Clicks / Pops → Reduce Background Noise → Restore Harmonics → Save Restored Audio
+Recording → Load WAV file → Remove Hum → Remove Clicks/Pops → Reduce Background Noise → Restore Harmonics → Save Audio
 ```
 
 I process the recording one stage at a time so I can compare the result after each step.
