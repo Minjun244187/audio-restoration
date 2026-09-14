@@ -6,9 +6,8 @@
 <tr>
 <td align="center" width="50%">
 <b>Before <a href="https://github.com/Minjun244187/audio-restoration/raw/refs/heads/main/img/sample2.mp3" download>Download Original MP3</a></b>
-<video src="https://github.com/user-attachments/assets/2541cc61-6f9c-4d60-a2d6-57ced5fe349e" controls width="100%" height="20" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
+<video src="https://github.com/user-attachments/assets/b901c5ac-5a9c-4773-9c93-8668497769a3" controls width="100%" height="20" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
 </td>
-
 <td align="center" width="50%">
 <b>After <a href="https://github.com/Minjun244187/audio-restoration/raw/refs/heads/main/img/final.mp3" download>Download Restored MP3</a></b>
 <video src="https://github.com/user-attachments/assets/4f890fb4-ae0b-47f0-a37b-c01ff23f064a" controls width="100%" height="20" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
