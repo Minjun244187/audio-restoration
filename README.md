@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/77af1c09-6579-449d-972e-28e859caf6d8
+
 # SP Record Restoration
 
 ## Restoring degraded 78 RPM records with digital signal processing in Python.
@@ -8,13 +12,13 @@
 <td align="center" width="50%">
 <b>Before <a href="https://github.com/Minjun244187/audio-restoration/raw/refs/heads/main/img/sample2.mp3" download>Download Original MP3</a></b>
 
-<video src="https://github.com/user-attachments/assets/1f1bea3f-c0b5-4d79-b972-63001a730337" controls width="100%" height="40" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
+<video src="https://github.com/user-attachments/assets/4f890fb4-ae0b-47f0-a37b-c01ff23f064a" controls width="100%" height="40" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
 </td>
 
 <td align="center" width="50%">
 <b>After <a href="https://github.com/Minjun244187/audio-restoration/raw/refs/heads/main/img/final.mp3" download>Download Restored MP3</a></b>
 
-<video src="https://github.com/user-attachments/assets/1ab0552f-3399-4334-aaa1-7b12c36da444" controls width="100%" height="40" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
+<video src="https://github.com/user-attachments/assets/4f890fb4-ae0b-47f0-a37b-c01ff23f064a" controls width="100%" height="40" style="object-fit: cover;" poster="https://raw.githubusercontent.com/gist/assets/transparent.png"></video>
 </td>
 </tr>
 </table>
